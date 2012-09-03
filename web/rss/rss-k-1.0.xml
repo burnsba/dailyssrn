@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://www.dailyssrn.com">
+<title>DailySSRN - K</title>
+<link>http://www.dailyssrn.com</link>
+<description>Summary of new papers published on SSRN over the last day</description>
+<dc:date>Sat, 25 Aug 2012 04:36:08 -0500</dc:date>
+<dc:publisher>publisher person</dc:publisher>
+<syn:updateBase>2012-08-01T00:00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>daily</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135343" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135111" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135343">
+<title>Can Company Disclosures Discipline State-Appointed Managers? Evidence from Greek Privatizations</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135343</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=591462&#x22;&#x3E;Stavros Gadinis&#x3C;/a&#x3E;  last revised on 2012-08-24
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;Conventional economic theory portrays privatization as a transformative event for a company, even when it is partial and the state maintains control. According to this view, private investors have stronger incentives than voters to monitor management performance and constrain side-payments to political allies of the government. But how exactly can private investors discipline managers they cannot fire? Proponents of privatization place their hopes on disclosure obligations under securities laws, triggered by privatized companies&#x26;#x27; stock exchange listings. They argue that, because company disclosures can reveal side-payments to government allies and cause private investors to abandon the stock, management should avoid political favoritism after a stock exchange listing. The Article explores whether investors responded to indications of political favoritism as the above theory would predict. Case study evidence comes from major privatizations in Greece during the last two decades in telecommunications, energy, and gaming. The Article examines the public disclosures of partially privatized companies in two key areas where the risk of political side-deals and corruption remains high: contracts with suppliers and relationship with labor. Greek companies&#x26;#x27; disclosure documents included clear indications that payouts to suppliers and labor continued to increase during the period of partial privatization. However, these companies&#x26;#x27; stocks remained attractive to investors. </description>
+<dc:date>Sat, 25 Aug 2012 04:36:08 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135111">
+<title>The &#x27;Justice Deficit&#x27; Debate in EU Private Law: New Directions</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135111</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=117842&#x22;&#x3E;Daniela Caruso&#x3C;/a&#x3E;  last revised on 2012-08-24
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;This essay outlines the ongoing debate on the justice deficit of EU private law &#x26;#x2013; the &#x26;#x2018;social justice&#x26;#x2019; debate &#x26;#x2013; and then points at an underexplored avenue of inquiry that is essential for this debate to stay meaningful and constructive. Future research should aim to calibrate EU private law to the socio-economic asymmetries of the EU market, and to counterbalance the uneven weight of uniform rules, where they appear desirable, with proper compensatory mechanisms. </description>
+<dc:date>Sat, 25 Aug 2012 04:36:08 -0500</dc:date>
+</item>
+</rdf:RDF>

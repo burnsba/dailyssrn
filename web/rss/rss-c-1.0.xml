@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://www.dailyssrn.com">
+<title>DailySSRN - C</title>
+<link>http://www.dailyssrn.com</link>
+<description>Summary of new papers published on SSRN over the last day</description>
+<dc:date>Sat, 25 Aug 2012 04:36:08 -0500</dc:date>
+<dc:publisher>publisher person</dc:publisher>
+<syn:updateBase>2012-08-01T00:00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>daily</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135176" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135176" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135176" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135176">
+<title>Revisiting the Fractional Cointegrating Dynamics of Implied-Realized Volatility Relation with Wavelet Band Spectrum Regression</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135176</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1823738&#x22;&#x3E;Jozef Barunik&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1886131&#x22;&#x3E;Michaela Barunikova&#x3C;/a&#x3E;  last revised on 2012-08-24
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;This paper revisits the fractional cointegrating relationship between ex-ante implied volatility and ex-post realized volatility. We argue that the concept of corridor implied volatility (CIV) should be used instead of the popular model-free option-implied volatility (MFIV) when assessing the fractional cointegrating relation as the latter may introduce bias to the estimation. For the realized volatility, we use recently proposed methods which are robust to noise as well as jumps and interestingly we find that it does not affect the implied-realized volatility relation. In addition, we develop a new tool for the estimation of fractional cointegrating relation between implied and realized volatility based on wavelets, a wavelet band least squares (WBLS). The main advantage of WBLS in comparison to other frequency domain methods is that it allows us to work conveniently with potentially non-stationary volatility due to the properties of wavelets. We study the dynamics of the relationship in the time-frequency domain with the wavelet coherence confirming that the dependence comes solely from the lower frequencies of the spectra. Motivated by this result we estimate the relationship only on this part of the spectra using WBLS and compare our results to the fully modified narrow-band least squares (FMNBLS) based on the Fourier frequencies. In the estimation, we use the S&#x26;#x26;P 500 and DAX monthly and bi-weekly option prices covering the recent financial crisis and we conclude that in the long-run, volatility inferred from the option prices using the corridor implied volatility (CIV) provides an unbiased forecast of the realized volatility. </description>
+<dc:date>Sat, 25 Aug 2012 04:36:08 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135176">
+<title>Revisiting the Fractional Cointegrating Dynamics of Implied-Realized Volatility Relation with Wavelet Band Spectrum Regression</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135176</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1823738&#x22;&#x3E;Jozef Barunik&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1886131&#x22;&#x3E;Michaela Barunikova&#x3C;/a&#x3E;  last revised on 2012-08-24
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;This paper revisits the fractional cointegrating relationship between ex-ante implied volatility and ex-post realized volatility. We argue that the concept of corridor implied volatility (CIV) should be used instead of the popular model-free option-implied volatility (MFIV) when assessing the fractional cointegrating relation as the latter may introduce bias to the estimation. For the realized volatility, we use recently proposed methods which are robust to noise as well as jumps and interestingly we find that it does not affect the implied-realized volatility relation. In addition, we develop a new tool for the estimation of fractional cointegrating relation between implied and realized volatility based on wavelets, a wavelet band least squares (WBLS). The main advantage of WBLS in comparison to other frequency domain methods is that it allows us to work conveniently with potentially non-stationary volatility due to the properties of wavelets. We study the dynamics of the relationship in the time-frequency domain with the wavelet coherence confirming that the dependence comes solely from the lower frequencies of the spectra. Motivated by this result we estimate the relationship only on this part of the spectra using WBLS and compare our results to the fully modified narrow-band least squares (FMNBLS) based on the Fourier frequencies. In the estimation, we use the S&#x26;#x26;P 500 and DAX monthly and bi-weekly option prices covering the recent financial crisis and we conclude that in the long-run, volatility inferred from the option prices using the corridor implied volatility (CIV) provides an unbiased forecast of the realized volatility. </description>
+<dc:date>Sat, 25 Aug 2012 04:36:08 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135176">
+<title>Revisiting the Fractional Cointegrating Dynamics of Implied-Realized Volatility Relation with Wavelet Band Spectrum Regression</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135176</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1823738&#x22;&#x3E;Jozef Barunik&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1886131&#x22;&#x3E;Michaela Barunikova&#x3C;/a&#x3E;  last revised on 2012-08-24
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;This paper revisits the fractional cointegrating relationship between ex-ante implied volatility and ex-post realized volatility. We argue that the concept of corridor implied volatility (CIV) should be used instead of the popular model-free option-implied volatility (MFIV) when assessing the fractional cointegrating relation as the latter may introduce bias to the estimation. For the realized volatility, we use recently proposed methods which are robust to noise as well as jumps and interestingly we find that it does not affect the implied-realized volatility relation. In addition, we develop a new tool for the estimation of fractional cointegrating relation between implied and realized volatility based on wavelets, a wavelet band least squares (WBLS). The main advantage of WBLS in comparison to other frequency domain methods is that it allows us to work conveniently with potentially non-stationary volatility due to the properties of wavelets. We study the dynamics of the relationship in the time-frequency domain with the wavelet coherence confirming that the dependence comes solely from the lower frequencies of the spectra. Motivated by this result we estimate the relationship only on this part of the spectra using WBLS and compare our results to the fully modified narrow-band least squares (FMNBLS) based on the Fourier frequencies. In the estimation, we use the S&#x26;#x26;P 500 and DAX monthly and bi-weekly option prices covering the recent financial crisis and we conclude that in the long-run, volatility inferred from the option prices using the corridor implied volatility (CIV) provides an unbiased forecast of the realized volatility. </description>
+<dc:date>Sat, 25 Aug 2012 04:36:08 -0500</dc:date>
+</item>
+</rdf:RDF>

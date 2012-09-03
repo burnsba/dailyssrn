@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://www.dailyssrn.com">
+<title>DailySSRN - R</title>
+<link>http://www.dailyssrn.com</link>
+<description>Summary of new papers published on SSRN over the last day</description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+<dc:publisher>publisher person</dc:publisher>
+<syn:updateBase>2012-08-01T00:00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>daily</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135239" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134984" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133996" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133970" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133957" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133968" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133977" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134163" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135239" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134163" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2128841" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134984" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134163" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135239" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135239">
+<title>Assessing the Environmental, Economic and Social Benefits of Well-Located Workforce Housing</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135239</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1886164&#x22;&#x3E;William M. Rohe&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1886182&#x22;&#x3E;Spencer Cowan&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1886184&#x22;&#x3E;Daniel Rodriguez&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;The jobs-housing imbalance in many metropolitan areas contributes to long work commutes and the related problems of air pollution, traffic congestion, and loss of both discretionary income and time that could be spent in more productive and meaningful ways.  This is a particular problem for low- and moderate-income workers who may have to travel long distances from their places of work to find affordable housing. This article presents a methodology for assessing the potential environmental, economic, and social benefits of constructing new affordable housing close to major employment centers and applies that methodology to the Asheville (NC) Metropolitan area. The results show that more than 62% of low- and moderate-income households surveyed either are or may be willing to move closer to work. Moving closer to work would reduce vehicle miles by 71.3%, or 9,000 miles, commuting time by between 159 and 250 hours, and commuting costs of $4,600 per year, per commuter. Commuting distance reductions translate into savings of more than 1.2 kg of NOx, 10.1kg of CO, and 3.5 tons of CO2 per year per household. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134984">
+<title>Delegating Eminent Domain Powers to Private Firms: Land Use and Efficiency Implications</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134984</link>
+<description>Abstract only by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=50925&#x22;&#x3E;Geoffrey K. Turnbull&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;Many private common carriers or regulated utilities have eminent domain powers in the U.S. The rationale resembles that for local governments; lower cost of assembling land for long distance electric transmission, gas and oil products pipelines, etc. Recent court cases raise questions about whether eminent domain allows firms to use inefficiently long indirect land corridors, inefficiently wide corridors, or higher value land when lower value land is available as an alternative? Despite the incentive to overuse capital under rate-of-return regulation, it turns out that the firm adopts an excessive land corridor width only to the extent that corridor width is tied to capital usage. For route selection, rate-of-return regulated firms follow the same Pareto rule that would be followed by an efficiency-oriented government when designating which land to take for a transmission route by eminent domain. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133996">
+<title>Eco-Management in Polish Companies</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133996</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1885359&#x22;&#x3E;Ewa Bojar&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;Economic activity has an enormous influence on the  environment. Enterprises contribute to the progressing degradation of existing ecosystems, cause serious threats to the biological diversity of our planet, emit hazardous pollutants and use available natural resources excessively, which can lead to their premature exhaustion. Therefore, for the world&#x26;#x2019;s nations to grow and develop in a sustainable manner, there is an urgent need to minimize the adverse impact of business activities, households and whole societies on the environment. Environmental degradation  cannot be restrained by the neutralization of produced pollutants alone. Today, we need efficient environment-friendly technologies and production processes. Effective efforts aimed at the reduction of our ecological footprint should be undertaken by all  involved entities, including designers, engineers and managers at all stages of the product design, production and distribution processes. The concept of corporate social responsibility, understood as a voluntary process of taking into account a wide array of social and ecological issues in all business activities as well as contacts with stakeholders, has become very popular in Poland. Development of the concept of corporate social responsibility (CSR) and sustainable development has a huge impact on the shaping of pro-ecological attitudes in society. From this perspective corporate social responsibility (CSR) can be rightly regarded as a concept useful to ensure sustainable development at the micro-level, i.e. at the level of enterprises. CSR is a component of sustainable eco-management. It can ensure that the principles of sustainable development are effectively implemented at the level of  socio-economic  systems, as well as individual  actors involved in change.  Lublin Voivodeship has a clean and attractive environment. This paper presents research findings of the study carried out in 2005-2010 by researchers from the Faculty of Management, Lublin University of Technology. The main purpose of the study was to analyze the environmental activities and initiatives undertaken by enterprises operating in the region, directions of pro-environmental investments, implemented environmental management systems, as well as motivations of business managers to pay more attention to environmental issues. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133970">
+<title>Ecosystem Services in the Light of a Sustainable Knowledge-Based Economy</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133970</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1885352&#x22;&#x3E;Artur Micha&#x142;owski&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;The article attempts to present the issue of ecosystem  services in the light of a sustainable knowledge-based economy. The category of ecosystem services is of key importance in the emerging economy of sustainable development, which analyses the society-economy-environment macro-system. The economic system should be based on knowledge and pursue a new paradigm of sustainable development, with consideration given to ecosystem services. The article examines the most important aspects of sustainable development and the essence of a sustainable knowledge-based economy as theoretical and practical perspectives of outlining the foundations of ecosystem services for the development of society. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133957">
+<title>Man and Nature - A New Project on New Spirituality</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133957</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1885333&#x22;&#x3E;Zbigniew Pasek&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;This article is a prelude to a planned project aimed at researching new ways of understanding and redefining the concept of nature in the so-called New Spirituality movements. The authors begin from a theoretical  context associated with the meaning, for religious studies, of the sacred &#x26;#x2013; profane and culture &#x26;#x2013; nature dichotomies, and show the changes religiousness undergoes. Today we see an increasing number of people turning away from traditional forms of religious  cult with a simultaneously declared wish to develop their own spirituality. New spirituality is provisionally defined here as the worldly transgression of the human condition committed in the name of different values strongly associated with the physical (bodily) dimension of life and a holistic vision of the world. On the basis of examples, drawn mainly from publications based on the Deep Ecology trend, the authors discuss three aspects: (1) a new understanding of one&#x26;#x2019;s own nature, (2) a new understanding of the nature of the world; and (3) new forms of activity for changes in awareness. In the dimensions under discussion, the process of recently locating the element of the sacred in the profane sphere and the resacralisation of nature clearly emerges. In the conclusions we also consider to what extent the formative new spirituality on the ecological trait can help  to  popularise the  sustainable development idea within the framework of changing the religiousness of man at the start of the twenty-first century. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133968">
+<title>Polish Planners&#x2019; Attitudes Towards Citizen Participation</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133968</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1885343&#x22;&#x3E;&#x141;ukasz Damurski&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;In the Polish spatial-planning system, planners are situated between the citizens, developers, local authorities and non-governmental organizations. Such a unique position gives them an opportunity to promote and stimulate the cooperation between the most important local players in order to reach constant and sustainable development of a given territorial unit. A question arises here: how does citizen participation look in practice? This paper looks for the answer by presenting selected findings of a survey conducted with Polish planners in 2010. The results suggest that planners are aware of the need for public involvement in the planning process though  they have some doubts about the real effects of such involvement. The planning practice proves that citizens first of all require satisfaction of their private interests, local authorities care mainly about the current political advantages and the planners lack the power and appropriate knowledge to conduct the public consultation process. The survey points to the need for improvement of the quality of the citizen participation in Poland. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133977">
+<title>Selecting Sustainability Indicators for Local Community &#x2013; Case Study of Milan&#xF3;wek Municipality, Poland</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133977</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1509114&#x22;&#x3E;Ma&#x142;gorzata Grodzinska-Jurczak&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1885340&#x22;&#x3E;Justyna Gutowska&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1885910&#x22;&#x3E;Jerzy &#x15A;leszy&#x144;ski&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;Actions for sustainable development at the local community level are the key elements of Agenda 21 but they also prove to be a difficult challenge. The governance of this process needs sustainability indicators to assess changes in local socio-economic and environmental systems to date. This article presents results of research on the local sustainable development assessment in Milan&#x26;#xF3;wek Municipality in Poland. This is an attempt to use a mixed, reductionist-participatory approach to selecting sustainability indicators for one local community in Poland. The paper shows how to develop and use, at the time of broad theoretical debate on implementation of sustainable development strategies, a set of indicators helping us to shape the development strategy of a municipality to fully satisfy its requirements. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134163">
+<title>The Effect of Urban Form on Household Activity-Travel and Trip-Chaining Behavior</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134163</link>
+<description>Abstract only by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1645128&#x22;&#x3E;Sisinnio Concas&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1885479&#x22;&#x3E;Nagesh Nayak&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;We estimate empirical models of the interaction between urban form and motor vehicle travel.  We find that population density has a small impact on travel demand, which decreases when residential location is endogenous.  Households living farther from work increase tour vehicle miles of travel, a result of trip-chaining.  Reducing the spatial allocation of non-work activities and increasing the presence of retail locations in proximity to households would have minimal effects in decreasing motor vehicle travel demand and employment decentralization. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135239">
+<title>Assessing the Environmental, Economic and Social Benefits of Well-Located Workforce Housing</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135239</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1886164&#x22;&#x3E;William M. Rohe&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1886182&#x22;&#x3E;Spencer Cowan&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1886184&#x22;&#x3E;Daniel Rodriguez&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;The jobs-housing imbalance in many metropolitan areas contributes to long work commutes and the related problems of air pollution, traffic congestion, and loss of both discretionary income and time that could be spent in more productive and meaningful ways.  This is a particular problem for low- and moderate-income workers who may have to travel long distances from their places of work to find affordable housing. This article presents a methodology for assessing the potential environmental, economic, and social benefits of constructing new affordable housing close to major employment centers and applies that methodology to the Asheville (NC) Metropolitan area. The results show that more than 62% of low- and moderate-income households surveyed either are or may be willing to move closer to work. Moving closer to work would reduce vehicle miles by 71.3%, or 9,000 miles, commuting time by between 159 and 250 hours, and commuting costs of $4,600 per year, per commuter. Commuting distance reductions translate into savings of more than 1.2 kg of NOx, 10.1kg of CO, and 3.5 tons of CO2 per year per household. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134163">
+<title>The Effect of Urban Form on Household Activity-Travel and Trip-Chaining Behavior</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134163</link>
+<description>Abstract only by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1645128&#x22;&#x3E;Sisinnio Concas&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1885479&#x22;&#x3E;Nagesh Nayak&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;We estimate empirical models of the interaction between urban form and motor vehicle travel.  We find that population density has a small impact on travel demand, which decreases when residential location is endogenous.  Households living farther from work increase tour vehicle miles of travel, a result of trip-chaining.  Reducing the spatial allocation of non-work activities and increasing the presence of retail locations in proximity to households would have minimal effects in decreasing motor vehicle travel demand and employment decentralization. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2128841">
+<title>Bankruptcy Law and the Cost of Credit: The Impact of Cramdown on Mortgage Interest Rates</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2128841</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=442306&#x22;&#x3E;Joshua Goodman&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=450592&#x22;&#x3E;Adam J. Levitin&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;Recent proposals to address housing market troubles through principal modification raise the possibility that such policies could increase the cost of credit in the mortgage market. We explore this using historical variation in federal judicial rulings regarding whether Chapter 13 bankruptcy filers could reduce the principal owed on a home loan to the home&#x26;#x2019;s market value. The practice, known as cramdown, was definitively prohibited by the Supreme Court in 1993. We find evidence that home loans closed during the time when cramdown was allowed had interest rates 10-20 basis points higher than loans closed in the same state when cramdown was not allowed, which translates to a roughly 1-2 percent increase in monthly payments. Consistent with the theory that lenders are pricing in the risk of principal modification, interest rate increases are higher for the riskiest borrowers and zero for the least risky, as well as higher in states where Chapter 13 filing is more common. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134984">
+<title>Delegating Eminent Domain Powers to Private Firms: Land Use and Efficiency Implications</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134984</link>
+<description>Abstract only by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=50925&#x22;&#x3E;Geoffrey K. Turnbull&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;Many private common carriers or regulated utilities have eminent domain powers in the U.S. The rationale resembles that for local governments; lower cost of assembling land for long distance electric transmission, gas and oil products pipelines, etc. Recent court cases raise questions about whether eminent domain allows firms to use inefficiently long indirect land corridors, inefficiently wide corridors, or higher value land when lower value land is available as an alternative? Despite the incentive to overuse capital under rate-of-return regulation, it turns out that the firm adopts an excessive land corridor width only to the extent that corridor width is tied to capital usage. For route selection, rate-of-return regulated firms follow the same Pareto rule that would be followed by an efficiency-oriented government when designating which land to take for a transmission route by eminent domain. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134163">
+<title>The Effect of Urban Form on Household Activity-Travel and Trip-Chaining Behavior</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134163</link>
+<description>Abstract only by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1645128&#x22;&#x3E;Sisinnio Concas&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1885479&#x22;&#x3E;Nagesh Nayak&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;We estimate empirical models of the interaction between urban form and motor vehicle travel.  We find that population density has a small impact on travel demand, which decreases when residential location is endogenous.  Households living farther from work increase tour vehicle miles of travel, a result of trip-chaining.  Reducing the spatial allocation of non-work activities and increasing the presence of retail locations in proximity to households would have minimal effects in decreasing motor vehicle travel demand and employment decentralization. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135239">
+<title>Assessing the Environmental, Economic and Social Benefits of Well-Located Workforce Housing</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135239</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1886164&#x22;&#x3E;William M. Rohe&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1886182&#x22;&#x3E;Spencer Cowan&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1886184&#x22;&#x3E;Daniel Rodriguez&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;The jobs-housing imbalance in many metropolitan areas contributes to long work commutes and the related problems of air pollution, traffic congestion, and loss of both discretionary income and time that could be spent in more productive and meaningful ways.  This is a particular problem for low- and moderate-income workers who may have to travel long distances from their places of work to find affordable housing. This article presents a methodology for assessing the potential environmental, economic, and social benefits of constructing new affordable housing close to major employment centers and applies that methodology to the Asheville (NC) Metropolitan area. The results show that more than 62% of low- and moderate-income households surveyed either are or may be willing to move closer to work. Moving closer to work would reduce vehicle miles by 71.3%, or 9,000 miles, commuting time by between 159 and 250 hours, and commuting costs of $4,600 per year, per commuter. Commuting distance reductions translate into savings of more than 1.2 kg of NOx, 10.1kg of CO, and 3.5 tons of CO2 per year per household. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+</rdf:RDF>

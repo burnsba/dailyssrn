@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+>
+
+<channel>
+<title>DailySSRN - G</title>
+<link>http://www.dailyssrn.com</link>
+<description>Summary of new papers published on SSRN over the last day</description>
+<pubDate>Sat, 25 Aug 2012 04:36:08 -0500</pubDate>
+<lastBuildDate>Sat, 25 Aug 2012 04:36:08 -0500</lastBuildDate>
+<ttl>720</ttl>
+
+<item>
+<title>Bankruptcy Probabilities Inferred from Option Prices</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135340</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=44638&#x22;&#x3E;Stephen J. Taylor&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=819506&#x22;&#x3E;Chi Feng Tzeng&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=962332&#x22;&#x3E;Martin Widdicks&#x3C;/a&#x3E;  last revised on 2012-08-24
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;Option prices contain forward looking information about stock price volatility and, potentially, the probability of bankruptcy. We develop a risk-neutral density (RND) model consisting of a mixture of two lognormal densities with a probability of bankruptcy. We calibrate this model to daily stock and option prices of six financial institutions during the onset of the financial crisis to see what information about bankruptcy probabilities can be inferred from option prices. The bankruptcy probability and the shape of the RND for the institutions are examined, particularly on major event dates. The empirical results show that acquiring banks have a lower bankruptcy probability than the acquired banks; RNDs of financial institutions reflect market shocks, especially in fat tails and bankruptcy probability. The results from multivariate regressions for each institution suggest that the small volatile firms, with low returns, have a higher chance of bankruptcy than large stable firms with high returns. </description>
+<pubDate>Sat, 25 Aug 2012 04:36:08 -0500</pubDate>
+</item>
+<item>
+<title>Revisiting the Fractional Cointegrating Dynamics of Implied-Realized Volatility Relation with Wavelet Band Spectrum Regression</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135176</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1823738&#x22;&#x3E;Jozef Barunik&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1886131&#x22;&#x3E;Michaela Barunikova&#x3C;/a&#x3E;  last revised on 2012-08-24
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;This paper revisits the fractional cointegrating relationship between ex-ante implied volatility and ex-post realized volatility. We argue that the concept of corridor implied volatility (CIV) should be used instead of the popular model-free option-implied volatility (MFIV) when assessing the fractional cointegrating relation as the latter may introduce bias to the estimation. For the realized volatility, we use recently proposed methods which are robust to noise as well as jumps and interestingly we find that it does not affect the implied-realized volatility relation. In addition, we develop a new tool for the estimation of fractional cointegrating relation between implied and realized volatility based on wavelets, a wavelet band least squares (WBLS). The main advantage of WBLS in comparison to other frequency domain methods is that it allows us to work conveniently with potentially non-stationary volatility due to the properties of wavelets. We study the dynamics of the relationship in the time-frequency domain with the wavelet coherence confirming that the dependence comes solely from the lower frequencies of the spectra. Motivated by this result we estimate the relationship only on this part of the spectra using WBLS and compare our results to the fully modified narrow-band least squares (FMNBLS) based on the Fourier frequencies. In the estimation, we use the S&#x26;#x26;P 500 and DAX monthly and bi-weekly option prices covering the recent financial crisis and we conclude that in the long-run, volatility inferred from the option prices using the corridor implied volatility (CIV) provides an unbiased forecast of the realized volatility. </description>
+<pubDate>Sat, 25 Aug 2012 04:36:08 -0500</pubDate>
+</item>
+</channel>
+</rss>

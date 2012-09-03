@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://www.dailyssrn.com">
+<title>DailySSRN - I</title>
+<link>http://www.dailyssrn.com</link>
+<description>Summary of new papers published on SSRN over the last day</description>
+<dc:date>Sat, 25 Aug 2012 04:36:08 -0500</dc:date>
+<dc:publisher>publisher person</dc:publisher>
+<syn:updateBase>2012-08-01T00:00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>daily</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133971" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134879" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133971">
+<title>Inequity in the Face of Death</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2133971</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=384982&#x22;&#x3E;Pilar Garcia-Gomez&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=578785&#x22;&#x3E;Erik Schokkaert&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=731304&#x22;&#x3E;Tom Van Ourti&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=848052&#x22;&#x3E;Teresa Bago d&#x27;Uva&#x3C;/a&#x3E;  last revised on 2012-08-24
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;We apply the theory of inequality in opportunity to measure inequity in mortality. Our empirical work is based on a rich dataset for the Netherlands (1998-2007), linking information about mortality, health events and lifestyles. We show that distinguishing between different channels via which mortality is affected is necessary to test the sensitivity of the results with respect to different normative positions. Moreover, our model allows for a comparison of the inequity in simulated counterfactual situations, including an evaluation of policy measures. We explicitly make a distinction between inequity in mortality risks and inequity in mortality outcomes. The treatment of this difference - &#x26;#x201C;luck&#x26;#x201D; - has a crucial in&#x26;#x2021;uence on the results. </description>
+<dc:date>Sat, 25 Aug 2012 04:36:08 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134879">
+<title>Religiosity as a Determinant of Happiness</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134879</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1121&#x22;&#x3E;Erich Gundlach&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1648577&#x22;&#x3E;Matthias Opfinger&#x3C;/a&#x3E;  last revised on 2012-08-24
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;We find a U&#x26;#x2010;shaped relation between happiness and religiosity in cross&#x26;#x2010;country panel data after controlling for income levels. At a given level of income, the same level of happiness can be reached with high and low levels of religiosity, but not with intermediate levels. A rise in income causes an increase in happiness along with a decline of religiosity. Our interpretation of the empirical results is that the indifference curves for religiosity and other commodities of the utility function are hump&#x26;#x2010;shaped. </description>
+<dc:date>Sat, 25 Aug 2012 04:36:08 -0500</dc:date>
+</item>
+</rdf:RDF>

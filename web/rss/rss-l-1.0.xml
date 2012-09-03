@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://www.dailyssrn.com">
+<title>DailySSRN - L</title>
+<link>http://www.dailyssrn.com</link>
+<description>Summary of new papers published on SSRN over the last day</description>
+<dc:date>Sat, 25 Aug 2012 04:36:08 -0500</dc:date>
+<dc:publisher>publisher person</dc:publisher>
+<syn:updateBase>2012-08-01T00:00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>daily</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135190" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135162" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135190">
+<title>Evaluating the Impact of Recent Advances in Biomedical Sciences and the Possible Mortality Decreases on the Future of Healthcare and Social Security in the United States</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135190</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1886718&#x22;&#x3E;Alexander Zhavoronkov&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1886719&#x22;&#x3E;Igor Artukhov&#x3C;/a&#x3E;  last revised on 2012-08-24
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;There is a general consensus that sustainability and solvency of US Social Security and Medicare is questionable with enormous fiscal imbalance on these programs of public welfare. In this paper, we propose that extent of this imbalance can be much more than what is currently predicted by Social Security Administration or some of the earlier studies on the subject. We suggest that the estimates of fiscal imbalance should incorporate the progress in medical sciences. This progression is likely to increase the longevity at an exponential rate in age cohort 65  warranting higher benefit payments compared to current forecasts of SSA. Our estimates reveal that if deaths caused by cardiovascular diseases and cancer are eliminated; the fiscal imbalance will be as high as USD 87 Trillion in present value. Given the current pace of biological innovations, the likelihood of elimination of these diseases is not improbable and if that happens, the sustainability of these programs is impossible with the status quo. </description>
+<dc:date>Sat, 25 Aug 2012 04:36:08 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135162">
+<title>Key Factors Influencing Tourism Competitiveness Index - Romania vs. Greece</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135162</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1597926&#x22;&#x3E;Andra Maria F&#xE2;nt&#xE2;nariu&#x3C;/a&#x3E;  last revised on 2012-08-24
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;Competitiveness  analysis  is a topical  issue that  has  aroused  the  interest of  many scientists in the field of economics and won in each economic actor, from economic regions, to that of  the organizations. Ensuring the competitiveness of tourist destinations is the core process of achieving competitiveness in tourism.The purpose of this article is to analyze the main factors in tourism competitiveness index (TCI) having  been reported to countries like Romania and Greece. </description>
+<dc:date>Sat, 25 Aug 2012 04:36:08 -0500</dc:date>
+</item>
+</rdf:RDF>

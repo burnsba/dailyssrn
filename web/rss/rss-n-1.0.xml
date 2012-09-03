@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://www.dailyssrn.com">
+<title>DailySSRN - N</title>
+<link>http://www.dailyssrn.com</link>
+<description>Summary of new papers published on SSRN over the last day</description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+<dc:publisher>publisher person</dc:publisher>
+<syn:updateBase>2012-08-01T00:00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>daily</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134472" />
+  <rdf:li rdf:resource="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134932" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134472">
+<title>The Talmud as a Business Guide</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134472</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=638928&#x22;&#x3E;Hershey H. Friedman&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;Purpose: There is a great deal of interest in discovering the secrets of business success according to the Talmud. This interest is satisfied in the present paper by listing and explaining some principles, stories, and cases from the Talmud.  Approach: The topic is approached in the manner of analysis of the Talmud as a business guide and as a set of stories and cases (part seven).  Findings: Some of the Talmudic sages were indeed quite wealthy (introduction). This paper demonstrates that the Talmudic approach to becoming wealthy (part two) involves respecting hard work, leading an ethical life, being charitable, treating employees well, going beyond the strict requirements of the law, and caring for others (parts three to six).  Implications: There are some indirect (conceptual) and some direct (in terms of principles and cases) implications of the Talmud as a business guide (as shown in part seven).  Methodology: Conceptual approach with addition of some Talmud stories as case studies. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+<item rdf:about="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134932">
+<title>The Law of Cyber-Attack</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134932</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=240242&#x22;&#x3E;Oona A. Hathaway&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=602148&#x22;&#x3E;William Perdue&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1553979&#x22;&#x3E;Philip Levitz&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1592192&#x22;&#x3E;Aileen Elizabeth Nowlan&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1640196&#x22;&#x3E;Rebecca Crootof&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1885987&#x22;&#x3E;Haley Nix&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1885990&#x22;&#x3E;Julia Spiegel&#x3C;/a&#x3E;  last revised on 2012-08-23
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;Cyber-attacks have become increasingly common in recent years. Capable of shutting down nuclear centrifuges, air defense systems, and electrical grids, cyber-attacks pose a serious threat to national security. As a result, some have suggested that cyber-attacks should be treated as acts of war. Yet the attacks look little like the armed attacks that the law of war has traditionally regulated. This Article examines how existing law may be applied &#x26;#x2014; and adapted and amended &#x26;#x2014; to meet the distinctive challenge posed by cyber-attacks. It begins by clarifying what cyber-attacks are and how they already are regulated by existing bodies of law, including the law of war, international treaties, and domestic criminal law. This review makes clear that existing law effectively addresses only a small fraction of potential cyber-attacks. The law of war, for example, provides a useful framework for only the very small number of cyber-attacks that amount to an armed attack or that take place in the context of an ongoing armed conflict. This Article concludes that a new, comprehensive legal framework at both the domestic and international levels is needed to more effectively address cyber-attacks. The United States could strengthen its domestic law by giving domestic criminal laws addressing cyber-attacks extra-territorial effect and by adopting limited, internationally permissible countermeasures to combat cyber-attacks that do not rise to the level of armed attacks or that do not take place during an ongoing armed conflict. Yet the challenge cannot be met by domestic reforms alone. International cooperation will be essential to a truly effective legal response. New international efforts to regulate cyber-attacks must begin with agreement on the problem &#x26;#x2014; which means agreement on the definition of cyber-attack, cyber-crime, and cyber-warfare. This would form the foundation for greater international cooperation on information sharing, evidence collection, and criminal prosecution of those involved in cyber-attacks &#x26;#x2014; in short, for a new international law of cyber-attack. </description>
+<dc:date>Fri, 24 Aug 2012 05:17:45 -0500</dc:date>
+</item>
+</rdf:RDF>

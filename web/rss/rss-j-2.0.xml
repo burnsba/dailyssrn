@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+>
+
+<channel>
+<title>DailySSRN - J</title>
+<link>http://www.dailyssrn.com</link>
+<description>Summary of new papers published on SSRN over the last day</description>
+<pubDate>Sat, 25 Aug 2012 04:36:08 -0500</pubDate>
+<lastBuildDate>Sat, 25 Aug 2012 04:36:08 -0500</lastBuildDate>
+<ttl>720</ttl>
+
+<item>
+<title>Determinants of Household Demand for Services - Formal Versus Informal Sector</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2134966</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1754067&#x22;&#x3E;Izabela Styczy&#x144;ska&#x3C;/a&#x3E;  last revised on 2012-08-24
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;This paper addresses the issue of household demand for services in Poland when informal sector is taken into consideration. The aim of the study is threefold: (i) to investigate the factors influencing households expenses for services, (ii) to find the determinants of households&#x26;#x2019; tax strategy (choice between acquiring services on regular labour market or not), (iii) to investigate the differences between the factors that influence the expenses for formal versus informal services. Two-step Heckman selection model is used to account for the selection into buying household services. Lee&#x26;#x2019;s (1983) procedure is adopted to control for the selection into the particular choice of tax strategy when purchasing household services. The decision whether to buy household services and whether formally or informally is modelled as a sequential choice and estimated by bivariate probit with selection. An important novel feature of the model used is the inclusion of variables that capture social norms and personal attitudes toward tax evasion. The study concludes that factors influencing expenses for services are positively related to financial situation of households, education and age of household head. The probability of avoiding taxes is higher for lower income households, households with more than one member and for those where a positive attitude toward informal employment is expressed. The impact of determinants of expenses for formal and informal services separately is comparable. Only household structure has the opposite effect on expenses for formal services versus informal ones. </description>
+<pubDate>Sat, 25 Aug 2012 04:36:08 -0500</pubDate>
+</item>
+<item>
+<title>Job Characteristics and Labor Market Discrimination in Promotions: New Theory and Empirical Evidence</title>
+<link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2135198</link>
+<description>Free paper by &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=389873&#x22;&#x3E;Jed DeVaro&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=397117&#x22;&#x3E;Suman Ghosh&#x3C;/a&#x3E;  and &#x3C;a href=&#x22;http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=456651&#x22;&#x3E;Cindy Zoghi&#x3C;/a&#x3E;  last revised on 2012-08-24
+&#x3C;p&#x3E;Abstract:
+&#x3C;br&#x3E;We present new theory and empirical evidence concerning racial discrimination in promotions. In our model, promotions signal worker ability. When tasks differ substantially across levels of a job hierarchy, the opportunity cost (in terms of foregone output) of not promoting qualified nonwhite workers is large, so employers are less likely to inefficiently retain these workers in lower-level jobs. Thus, given pre-promotion performance, the extent to which nonwhite workers have lower promotion probabilities should decrease when tasks vary more across levels. Also, the difference between white and nonwhite workers in the wage increase attached to promotion should diminish when tasks vary more across levels. We test these implications empirically using personnel data from a large U.S. firm and from the National Compensation Survey. Results support the theoretical model&#x26;#x2019;s predictions concerning promotion probabilities, whereas support is mixed for the model&#x26;#x2019;s predictions concerning the wage growth attached to promotions. </description>
+<pubDate>Sat, 25 Aug 2012 04:36:08 -0500</pubDate>
+</item>
+</channel>
+</rss>
