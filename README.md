@@ -14,7 +14,7 @@ The only information gathered and posted are the abstracts, titles, and
 authors, as allowed per the SSRN ToS.
 
 A side goal of this project was to become more proficient in Perl and shell
-scripting.
+scripting. (This is one of my first Perl projects)
 
 #### Folder structure: ####
     code/             Scripts to be run
