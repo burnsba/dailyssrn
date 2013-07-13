@@ -28,7 +28,9 @@ scripting. (This is one of my first Perl projects)
                       categories. Both RSS 1.0 and 2.0 feeds are generated.
 
     code/
-    master.sh         To be run by cron. Collects output and sends email report.
+    master.sh         To be run by cron. 
+    email_report.sh   Sends an email on the status of the last update, and 
+                      includes bad html files.
     grab_ssrn.sh      Downloads a webpage from SSRN, one for each category, then 
                       sends page to parse_and_log.pl
     parse_and_log.pl  parses out paper information and stores result in database.
@@ -46,3 +48,5 @@ scripting. (This is one of my first Perl projects)
     |                      
     +-----> update_rss.sh
               +------------> feed.pl
+              
+    email_report.sh
